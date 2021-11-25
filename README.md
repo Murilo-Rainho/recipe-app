@@ -14,3 +14,6 @@
 > Although CSS is just getting started, we were able to complete this project with 97% coverage in just 7 days. The deadline was 10 days. That is, always use agile methodologies ;)
 
 ---
+
+[This is my project rep.](https://github.com/tryber/sd-013-a-project-recipes-app)
+Our branch: main-group-24-dev
